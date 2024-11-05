@@ -2,7 +2,7 @@
 
 ## Logos
 
-[Download all assets](https://drive.google.com/file/d/1xkco78pKlIzcX0S_UuS9Q5uLAlomEgXF/view?usp=sharing)
+[Download all assets](https://drive.google.com/file/d/1J_mrpmOsrcQ49D36T0LE_GYCEGPUEIVO/view?usp=drive_link)
 
 |  Logo             |   Wordmark                                                         |
 | ----------------- | ------------------------------------------------------------------ |
