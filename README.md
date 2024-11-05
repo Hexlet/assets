@@ -28,6 +28,53 @@
 |  <img src="images/png/token_icon_white.png?raw=true" width="120">  |  <img src="images/png/token_icon_black.png?raw=true" width="120">  |
 |  [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png) | [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png)
 
+## Typography
+
+### Headline
+
+Manrope Semibold
+[font](https://fonts.google.com/specimen/Manrope)
+
+### Body
+
+Manrope Regular
+[font](https://fonts.google.com/specimen/Manrope)
+
+## Colors
+
+| Palette |
+|----------------- |
+| <img src="images/png/hexlet_brand_palette.png?raw=true" width="120"> |
+| [svg](/images/svg/hexlet_brand_palette.svg), [png](/images/png/hexlet_brand_palette.png) |
+
+### Main colors
+
+| RGB | HEX | CMYK ||
+|----|-----|------|-|
+| `238 238 238` | `EEEEEC` | `0 0 1 7` | <div style="background-color: #EEEEEC; width: 10px; height: 10px;"></div> |
+| `21 22 24` | `151618` | `0 0 0 100`  | <div style="background-color: #151618; width: 10px; height: 10px;"></div> |
+| `67 62 255` | `433EFF` | `97 80 0 0` | <div style="background-color: #433EFF; width: 10px; height: 10px;"></div> |
+
+## Additional colors
+
+| RGB | HEX | CMYK ||
+|-----|-----|------|-|
+| `65 65 65` | `414141` | `70 0 45 0`    | <div style="background-color: #414141; width: 10px; height: 10px;"></div> |
+| `199 199 199` | `C7C7C7` | `0 0 0 22`  | <div style="background-color: #C7C7C7; width: 10px; height: 10px;"></div> |
+| `209 111 255` | `D16FFF` | `70 0 45 0` | <div style="background-color: #D16FFF; width: 10px; height: 10px;"></div> |
+| `0 194 255` | `00C2FF` | `100 24 0 0`  | <div style="background-color: #00C2FF; width: 10px; height: 10px;"></div> |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
