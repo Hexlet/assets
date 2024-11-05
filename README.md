@@ -3,6 +3,7 @@
 ## Logos
 
 [Download all assets](https://drive.google.com/file/d/1J_mrpmOsrcQ49D36T0LE_GYCEGPUEIVO/view?usp=drive_link)
+[Link to Brandkit guide](https://drive.google.com/drive/folders/1p_IMqE4xlJ2G8MbL4drcyK8sj17wz-CA)
 
 |  Logo             |   Wordmark                                                         |
 | ----------------- | ------------------------------------------------------------------ |
