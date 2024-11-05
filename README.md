@@ -32,13 +32,11 @@
 
 ### Headline
 
-Manrope Semibold
-[font](https://fonts.google.com/specimen/Manrope)
+Manrope Semibold [font](https://fonts.google.com/specimen/Manrope)
 
 ### Body
 
-Manrope Regular
-[font](https://fonts.google.com/specimen/Manrope)
+Manrope Regular [font](https://fonts.google.com/specimen/Manrope)
 
 ## Colors
 
@@ -63,19 +61,6 @@ Manrope Regular
 | `199 199 199` | `C7C7C7` | `0 0 0 22`  | <div style="background-color: #C7C7C7; width: 10px; height: 10px;"></div> |
 | `209 111 255` | `D16FFF` | `70 0 45 0` | <div style="background-color: #D16FFF; width: 10px; height: 10px;"></div> |
 | `0 194 255` | `00C2FF` | `100 24 0 0`  | <div style="background-color: #00C2FF; width: 10px; height: 10px;"></div> |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
