@@ -46,7 +46,7 @@ Manrope Regular [font](https://fonts.google.com/specimen/Manrope)
 
 ## Colors
 
-[Link to palette](https://coolors.co/palette/000000-433eff-ededeb-000000-000000)
+[Link to palette](https://coolors.co/palette/eeeeec-151618-433eff-414141-c7c7c7-d16fff-00c2ff)
 
 | Palette |
 |----------------- |
