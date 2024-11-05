@@ -10,6 +10,23 @@
 |  [svg](/images/svg/hexlet_logo_primary_en.svg), [png](/images/png/hexlet_logo_primary_en.png) |  [svg](/images/svg/hexlet_wordmark_primary_en.svg), [png](images/png/hexlet_wordmark_primary_en.png) |
 |  <img src="images/png/hexlet_logo_primary_rus.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_primary_rus.png?raw=true" width="300">  |
 |  [svg](/images/svg/hexlet_logo_primary_rus.svg), [png](/images/png/hexlet_logo_primary_rus.png) |  [svg](/images/svg/hexlet_logo_primary_rus.svg), [png](images/png/hexlet_wordmark_primary_rus.png) |
+|  <img src="images/png/hexlet_logo_white_en.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_white_en.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_white_en.svg), [png](/images/png/hexlet_logo_white_en.png) |  [svg](/images/svg/hexlet_logo_white_en.svg), [png](images/png/hexlet_wordmark_white_en.png) |
+|  <img src="images/png/hexlet_logo_white_rus.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_white_rus.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_white_rus.svg), [png](/images/png/hexlet_logo_white_rus.png) |  [svg](/images/svg/hexlet_logo_white_rus.svg), [png](images/png/hexlet_wordmark_white_rus.png) |
+|  <img src="images/png/hexlet_logo_total_black_en.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_total_black_en.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_total_black_en.svg), [png](/images/png/hexlet_logo_total_black_en.png) |  [svg](/images/svg/hexlet_logo_total_black_en.svg), [png](images/png/hexlet_wordmark_total_black_en.png) |
+|  <img src="images/png/hexlet_logo_total_black_rus.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_total_black_rus.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_total_black_rus.svg), [png](/images/png/hexlet_logo_total_black_rus.png) |  [svg](/images/svg/hexlet_logo_total_black_rus.svg), [png](images/png/hexlet_wordmark_total_black_rus.png) |
+|  <img src="images/png/hexlet_logo_total_white_en.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_total_white_en.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_total_white_en.svg), [png](/images/png/hexlet_logo_total_white_en.png) |  [svg](/images/svg/hexlet_logo_total_white_en.svg), [png](images/png/hexlet_wordmark_total_white_en.png) |
+|  <img src="images/png/hexlet_logo_total_white_rus.png?raw=true" width="120">  |  <img src="images/png/hexlet_wordmark_total_white_rus.png?raw=true" width="300">  |
+|  [svg](/images/svg/hexlet_logo_total_white_rus.svg), [png](/images/png/hexlet_logo_total_white_rus.png) |  [svg](/images/svg/hexlet_logo_total_white_rus.svg), [png](images/png/hexlet_wordmark_total_white_rus.png) |
+
+|  Token white             |   Token black                                                         |
+| ----------------- | ------------------------------------------------------------------ |
+|  <img src="images/png/token_icon_white.png?raw=true" width="120">  |  <img src="images/png/token_icon_black.png?raw=true" width="120">  |
+|  [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png) | [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png)
 
 
 
