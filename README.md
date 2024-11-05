@@ -3,6 +3,7 @@
 ## Logos
 
 [Download all assets](https://drive.google.com/file/d/1J_mrpmOsrcQ49D36T0LE_GYCEGPUEIVO/view?usp=drive_link)
+[Link to Brandkit guide](https://drive.google.com/drive/folders/1p_IMqE4xlJ2G8MbL4drcyK8sj17wz-CA)
 
 |  Logo             |   Wordmark                                                         |
 | ----------------- | ------------------------------------------------------------------ |
@@ -28,6 +29,12 @@
 |  <img src="images/png/token_icon_white.png?raw=true" width="120">  |  <img src="images/png/token_icon_black.png?raw=true" width="120">  |
 |  [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png) | [svg](/images/svg/token_icon_white.svg), [png](/images/png/hexlet_logo_total_white_rus.png)
 
+### Usage
+
+<img src="images/png/Usage.png?raw=true" alt="Usages" width="250">
+
+It is recommended to use backgrounds of company colors, but sometimes there is no such possibility: photos, backgrounds of partners, non-standard media (for example, a car of a non-brand color). In this case it is necessary to change the color of the logo to a contrasting background.
+
 ## Typography
 
 ### Headline
@@ -39,6 +46,8 @@ Manrope Semibold [font](https://fonts.google.com/specimen/Manrope)
 Manrope Regular [font](https://fonts.google.com/specimen/Manrope)
 
 ## Colors
+
+[Link to palette](https://coolors.co/palette/eeeeec-151618-433eff-414141-c7c7c7-d16fff-00c2ff)
 
 | Palette |
 |----------------- |
